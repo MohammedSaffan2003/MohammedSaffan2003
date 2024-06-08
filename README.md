@@ -1,5 +1,5 @@
 
-https://github-profile-trophy.vercel.app/?username=MohammedSaffan2003&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohammedSaffan2003&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m Mohammed Saffan {@MohammedSaffan2003}
 - 👀 I’m interested in to explore how computer thinks and works -> Coding
